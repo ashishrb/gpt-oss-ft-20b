@@ -1,0 +1,22 @@
+GPU Available: True
+GPU Name: NVIDIA GeForce RTX 5090
+GPU Memory: 33.7 GB
+Generating train split: 100%|██████████| 74/74 [00:00<00:00, 27806.71 examples/s]
+Dataset structure:
+DatasetDict({
+    train: Dataset({
+        features: ['query', 'response'],
+        num_rows: 74
+    })
+})
+
+Sample data:
+{'query': "My order hasn't arrived yet.", 'response': 'We apologize for the inconvenience. Can you please provide your order number so we can investigate?'}
+Found existing installation: transformers 4.55.2
+Uninstalling transformers-4.55.2:
+  Successfully uninstalled transformers-4.55.2
+Found existing installation: bitsandbytes 0.47.0
+Uninstalling bitsandbytes-0.47.0:
+  Successfully uninstalled bitsandbytes-0.47.0
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+[34m[1mwandb[0m: [32m[41mERROR[0m The nbformat package was not found. It is required to save notebook history.

@@ -1,0 +1,39 @@
+{
+  "os": "Linux-6.14.0-27-generic-x86_64-with-glibc2.41",
+  "python": "CPython 3.10.11",
+  "startedAt": "2025-08-15T06:53:36.071076Z",
+  "program": "/mnt/data_storage/git_projects/oss-20b-ft/fine-tune-oss.ipynb",
+  "codePath": "fine-tune-oss.ipynb",
+  "codePathLocal": "fine-tune-oss.ipynb",
+  "git": {
+    "remote": "https://github.com/ashishrb/gpt-oss-20b-ft.git"
+  },
+  "email": "ashish.biswas@gmail.com",
+  "root": "/mnt/data_storage/git_projects/oss-20b-ft",
+  "host": "ashish-MS-7E59",
+  "executable": "/home/ashish/miniconda3/envs/oss-gpt-20b-310/bin/python",
+  "cpu_count": 16,
+  "cpu_count_logical": 32,
+  "gpu": "NVIDIA GeForce RTX 5090",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "1966736678912",
+      "used": "71478947840"
+    }
+  },
+  "memory": {
+    "total": "130060537856"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 5090",
+      "memoryTotal": "34190917632",
+      "cudaCores": 21760,
+      "architecture": "Blackwell",
+      "uuid": "GPU-a52cf7d2-0d7a-9d37-7cd7-003bd67b7995"
+    }
+  ],
+  "cudaVersion": "12.9",
+  "writerId": "lztm6w3p2nvv3qngq0o89k2tu53dvnqr"
+}

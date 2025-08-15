@@ -1,0 +1,12 @@
+GPU Available: True
+GPU Name: NVIDIA GeForce RTX 5090
+GPU Memory: 33.7 GB
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Found existing installation: transformers 4.36.2
+Uninstalling transformers-4.36.2:
+  Successfully uninstalled transformers-4.36.2
+Found existing installation: bitsandbytes 0.41.3
+Uninstalling bitsandbytes-0.41.3:
+  Successfully uninstalled bitsandbytes-0.41.3
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+[34m[1mwandb[0m: [32m[41mERROR[0m The nbformat package was not found. It is required to save notebook history.

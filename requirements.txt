@@ -1,0 +1,26 @@
+# GPT-OSS-20B Fine-tuning Requirements
+# Optimized for high-memory GPUs (80GB+ recommended)
+
+# Core PyTorch (nightly build for latest CUDA support)
+torch>=2.9.0.dev
+torchvision>=0.24.0.dev
+
+# Transformers and related libraries
+transformers>=4.55.0
+tokenizers>=0.21.0
+datasets>=4.0.0
+
+# Parameter-Efficient Fine-tuning
+peft>=0.17.0
+
+# Training and Reinforcement Learning
+trl>=0.21.0
+accelerate>=1.10.0
+
+# Optional: Weights & Biases for experiment tracking
+# wandb>=0.21.0
+
+# System dependencies
+numpy>=1.26.0
+tqdm>=4.67.0
+safetensors>=0.6.0

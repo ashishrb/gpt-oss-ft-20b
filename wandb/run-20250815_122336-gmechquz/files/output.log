@@ -1,0 +1,9 @@
+GPU Available: True
+GPU Name: NVIDIA GeForce RTX 5090
+GPU Memory: 33.7 GB
+Found existing installation: transformers 4.35.0
+Uninstalling transformers-4.35.0:
+  Successfully uninstalled transformers-4.35.0
+Found existing installation: bitsandbytes 0.41.1
+Uninstalling bitsandbytes-0.41.1:
+  Successfully uninstalled bitsandbytes-0.41.1

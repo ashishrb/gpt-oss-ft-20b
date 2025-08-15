@@ -1,0 +1,64 @@
+_wandb:
+    value:
+        cli_version: 0.21.1
+        e:
+            6riikns1mcnmcw1cxng552d1vvfncjag:
+                codePath: fine-tune-oss.ipynb
+                codePathLocal: fine-tune-oss.ipynb
+                cpu_count: 16
+                cpu_count_logical: 32
+                cudaVersion: "12.9"
+                disk:
+                    /:
+                        total: "1966736678912"
+                        used: "71300911104"
+                email: ashish.biswas@gmail.com
+                executable: /home/ashish/miniconda3/envs/oss-gpt-20b-310/bin/python
+                git:
+                    remote: https://github.com/ashishrb/gpt-oss-20b-ft.git
+                gpu: NVIDIA GeForce RTX 5090
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Blackwell
+                      cudaCores: 21760
+                      memoryTotal: "34190917632"
+                      name: NVIDIA GeForce RTX 5090
+                      uuid: GPU-a52cf7d2-0d7a-9d37-7cd7-003bd67b7995
+                host: ashish-MS-7E59
+                memory:
+                    total: "130060537856"
+                os: Linux-6.14.0-27-generic-x86_64-with-glibc2.41
+                program: /mnt/data_storage/git_projects/oss-20b-ft/fine-tune-oss.ipynb
+                python: CPython 3.10.11
+                root: /mnt/data_storage/git_projects/oss-20b-ft
+                startedAt: "2025-08-15T06:43:44.937449Z"
+                writerId: 6riikns1mcnmcw1cxng552d1vvfncjag
+        m: []
+        python_version: 3.10.11
+        t:
+            "1":
+                - 1
+                - 11
+                - 49
+                - 51
+                - 71
+                - 84
+                - 98
+            "2":
+                - 1
+                - 11
+                - 49
+                - 51
+                - 71
+                - 84
+                - 98
+            "3":
+                - 2
+                - 13
+            "4": 3.10.11
+            "5": 0.21.1
+            "6": 4.55.2
+            "8":
+                - 1
+            "12": 0.21.1
+            "13": linux-x86_64
